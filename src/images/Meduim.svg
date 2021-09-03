@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
+  <g id="Meduim" transform="translate(6881 -1677)">
+    <g id="Group_4572" data-name="Group 4572" transform="translate(-6881 1677)">
+      <g id="Rectangle_436" data-name="Rectangle 436" fill="rgba(24,208,154,0.2)" stroke="#18d09a" stroke-width="0.5">
+        <rect width="40" height="40" rx="5" stroke="none"/>
+        <rect x="0.25" y="0.25" width="39.5" height="39.5" rx="4.75" fill="none"/>
+      </g>
+    </g>
+    <g id="_x32_11-medium" transform="translate(-6870.118 1689.765)">
+      <g id="Group_4576" data-name="Group 4576" transform="translate(0 0)">
+        <g id="Group_4575" data-name="Group 4575" transform="translate(0 0)">
+          <path id="Path_11274" data-name="Path 11274" d="M36.35,82.952a.712.712,0,0,0-.23-.6l-1.7-2.051V80h5.286l4.087,8.962L47.385,80h5.041v.305L50.971,81.7a.425.425,0,0,0-.162.407V92.362a.425.425,0,0,0,.162.407l1.421,1.395v.305H45.24v-.305l1.474-1.429c.143-.143.143-.189.143-.407V84.042l-4.1,10.4h-.554l-4.765-10.4v6.971a.949.949,0,0,0,.264.8l1.915,2.322v.305H34.19v-.3l1.915-2.326a.918.918,0,0,0,.245-.8Z" transform="translate(-34.19 -80)" fill="#18d09a"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
